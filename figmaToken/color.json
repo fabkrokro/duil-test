@@ -1,1 +1,17 @@
-{}
+{
+  "global": {
+    "red-500": {
+      "value": "#a43030",
+      "type": "color"
+    },
+    "red-400": {
+      "value": "#bd5454",
+      "type": "color"
+    },
+    "red-300": {
+      "value": "#da7777",
+      "type": "color"
+    }
+  },
+  "$themes": []
+}
