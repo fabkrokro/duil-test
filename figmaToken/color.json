@@ -11,6 +11,14 @@
     "red-300": {
       "value": "#da7777",
       "type": "color"
+    },
+    "spacing-01": {
+      "value": "16px",
+      "type": "sizing"
+    },
+    "spacing-02": {
+      "value": "32px",
+      "type": "sizing"
     }
   },
   "$themes": []
